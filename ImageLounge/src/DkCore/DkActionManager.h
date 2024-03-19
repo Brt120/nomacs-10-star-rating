@@ -397,7 +397,7 @@ public:
         shortcut_skip_prev_sync = Qt::ALT | Qt::Key_Left,
         shortcut_skip_next_sync = Qt::ALT | Qt::Key_Right,
 
-        shortcut_star_rating_0 = Qt::CTRL | Qt::Key_0,
+        shortcut_star_rating_0 = Qt::CTRL | Qt::ALT | Qt::Key_0,
         shortcut_star_rating_1 = Qt::Key_1,
         shortcut_star_rating_2 = Qt::Key_2,
         shortcut_star_rating_3 = Qt::Key_3,
